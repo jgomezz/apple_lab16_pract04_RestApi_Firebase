@@ -1,5 +1,5 @@
 
-### Laboratorio Calificado 4 : RestAPI, Firebase : Auth and Firestone
+### Laboratorio Calificado 4 : RestAPI, Firebase : Auth and Firestore
 
 ### Implementar
 
